@@ -209,7 +209,9 @@ Ordre de lecture des options de connexion ssh:
 ## 5 – Importation de la clé.pub lors de l’installation d’un serveur Ubuntu
 
 <img src="images/Configuration-et-utilisation-de-ssh/Capture-decran-le-2021-06-27-a-14.02.45.png" alt="" width="400" />
+
 <img src="images/Configuration-et-utilisation-de-ssh/Capture-decran-le-2021-06-27-a-14.10.28.png" alt="" width="400" />
+
 <img src="images/Configuration-et-utilisation-de-ssh/Capture-decran-le-2021-06-27-a-14.11.44-1024x441.png" alt="" width="512" />
 
 Permette au compte ‘root’ un accès ssh (très mauvaise idée ?)

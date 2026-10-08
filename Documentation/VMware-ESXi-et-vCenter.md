@@ -75,21 +75,40 @@ Comme par exemple, VMware Fusion, VMware Desktop et VMware Player.
 3.2 – Démarrer l’application bureau de virtualisation:
 
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-11.47.19.png" alt="" width="320" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-11.47.02.png" alt="" width="320" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-11.47.41.png" alt="" width="320" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-11.48.02.png" alt="" width="320" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-11.48.37.png" alt="" width="320" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-11.49.07.png" alt="" width="222" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-11.50.30.png" alt="" width="320" />
 
 3. – Démarrer la VM
 
-<img src="images/VMware-ESXi-et-vCenter/esxi-boot-options.png" alt="" width="449" /><img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-11.54.27-1024x764.png" alt="" width="512" />
-<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.26.59.png" alt="" width="246" /><img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.27.18.png" alt="" width="260" /><img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.28.44.png" alt="" width="301" /><img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.28.57.png" alt="" width="200" /><img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.29.15.png" alt="" width="262" />
+<img src="images/VMware-ESXi-et-vCenter/esxi-boot-options.png" alt="" width="449" />
+
+<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-11.54.27-1024x764.png" alt="" width="512" />
+
+<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.26.59.png" alt="" width="246" />
+
+<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.27.18.png" alt="" width="260" />
+
+<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.28.44.png" alt="" width="301" />
+
+<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.28.57.png" alt="" width="200" />
+
+<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.29.15.png" alt="" width="262" />
 
 Note: Utiliser 420-1c3 comme mot de passe.
 
-<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.31.15.png" alt="" width="265" /><img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.32.42.png" alt="" width="244" />
+<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.31.15.png" alt="" width="265" />
+
+<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.32.42.png" alt="" width="244" />
 
 Redémarrer la VM
 
@@ -106,6 +125,7 @@ Appuyer sur Alt+F2 pour retourner à l’écran d’accueil
 Appuyer sur la touche F2 pour effectuer la configuration du serveur
 
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.37.07.png" alt="" width="263" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-11.18.29.png" alt="" width="248" />
 
 Activer la console et l’accès SSH:
@@ -118,7 +138,9 @@ Appuyer sur <retour> pour modifier la valeur de la sélection courante:
 
 Tester l’accès à la console:
 
-<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.40.25.png" alt="" width="188" /><img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.40.51.png" alt="" width="324" />
+<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.40.25.png" alt="" width="188" />
+
+<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.40.51.png" alt="" width="324" />
 
 ---
 
@@ -143,6 +165,7 @@ Se connecter à l’application de gestion ESXi en utilisant le mot de passe ren
 root : 420-1c3
 
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-12-a-13.46.33.png" alt="" width="390" />
+
 <img src="images/VMware-ESXi-et-vCenter/ESXi-pas-de-stockage-1024x732.png" alt="" width="512" />
 
 Solutions:
@@ -201,6 +224,7 @@ Pour remédier à cette situation, nous allons ajouter un disque supplémentaire
 6.1 – Éteindre le serveur ESXi
 
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-11.36.25.png" alt="" width="112" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-11.37.29.png" alt="" width="242" />
 
 6.2 – Afficher la configuration de la VM ESXi:
@@ -216,11 +240,17 @@ Ajouter un nouveau disque de 40GO
 6.5 – Sélectionner l’option
 
 <img src="images/VMware-ESXi-et-vCenter/esxi-disk01.png" alt="" width="444" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-12.19.17.png" alt="" width="470" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-12.19.36.png" alt="" width="470" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-12.19.51.png" alt="" width="470" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-12.20.05.png" alt="" width="470" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-12.20.19.png" alt="" width="280" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-12.20.47-1024x279.png" alt="" width="512" />
 
 Voilà, nous avons maintenant une banque de données, ce qui permettra la création d’une VM.
@@ -242,17 +272,27 @@ Pour ce faire, il faut posséder l’image d’installation d’un OS sous la fo
 7.2 – Créer la VM
 
 <img src="images/VMware-ESXi-et-vCenter/Creer-vm-01.png" alt="" width="457" />
+
 <img src="images/VMware-ESXi-et-vCenter/Creer-vm-02.png" alt="" width="458" />
-<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-12.46.36.png" alt="" width="457" /><img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-12.47.16.png" alt="" width="457" />
+
+<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-12.46.36.png" alt="" width="457" />
+
+<img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-12.47.16.png" alt="" width="457" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-12.47.46.png" alt="" width="456" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-12.48.48.png" alt="" width="454" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-12.49.11-1024x507.png" alt="" width="512" />
 
 ## 8 – Téléverser les fichiers ISO sur le serveur ESXi
 
 <img src="images/VMware-ESXi-et-vCenter/Creer-vm-03-1024x433.png" alt="" width="512" />
+
 <img src="images/VMware-ESXi-et-vCenter/Creer-vm-04.png" alt="" width="320" />
+
 <img src="images/VMware-ESXi-et-vCenter/Creer-vm-05.png" alt="" width="186" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-13.05.14.png" alt="" width="288" />
 
 ---
@@ -260,7 +300,9 @@ Pour ce faire, il faut posséder l’image d’installation d’un OS sous la fo
 ## 9 – Renseigner la source d’installation d’une VM
 
 <img src="images/VMware-ESXi-et-vCenter/Creer-vm-06.png" alt="" width="440" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-13.11.23.png" alt="" width="390" />
+
 <img src="images/VMware-ESXi-et-vCenter/Capture-decran-le-2021-08-13-a-13.11.39.png" alt="" width="360" />
 
 Voilà, il ne reste plus qu’à démarrer la VM Debian 10.

@@ -188,6 +188,7 @@ sudo service vsftpd restart
 **Étape 5.2** – Établir une connexion au serveur FTP
 
 <img src="images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-16.53.12-1024x537.png" alt="" width="512" />
+
 <img src="images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-18.04.32.png" alt="" width="430" />
 
 **Action 5.3** – Effectuer un téléversement ?
@@ -259,7 +260,9 @@ sudo service vsftpd restart
 **Action 7.4** – Tester l’accès anonyme
 
 <img src="images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-18.45.28.png" alt="" width="433" />
+
 <img src="images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-18.49.58.png" alt="" width="250" />
+
 <img src="images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-18.50.17.png" alt="" width="394" />
 
 ---

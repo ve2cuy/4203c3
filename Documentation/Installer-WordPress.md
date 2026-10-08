@@ -139,7 +139,9 @@ http://192.168.56.101/wordpress
 
 **Action 14** – Tester le login sous le compte de l’administrateur du site:
 
-<img src="images/Installer-WordPress/config-wp-08.png" alt="" width="458" /> <img src="images/Installer-WordPress/config-wp-09-1024x682.png" alt="" width="512" />
+<img src="images/Installer-WordPress/config-wp-08.png" alt="" width="458" />
+
+<img src="images/Installer-WordPress/config-wp-09-1024x682.png" alt="" width="512" />
 
 **Voilà, notre site WordPress est installé et fonctionnel**
 

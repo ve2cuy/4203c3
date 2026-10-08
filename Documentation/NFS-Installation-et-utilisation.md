@@ -98,6 +98,7 @@ Option -> Menu de navigation -> VPC Network -> Firewall
 Option:
 
 <img src="images/NFS-Installation-et-utilisation/Capture-decran-2024-11-13-a-09.47.30.png" alt="" width="100" />
+
 <img src="images/NFS-Installation-et-utilisation/Capture-decran-2024-11-13-a-09.37.05.png" alt="" width="317" />
 
 ---

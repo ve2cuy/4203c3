@@ -187,6 +187,7 @@ Par exemple,
 # Voici un schéma résumant les concepts de base
 
 <img src="images/Commandes-Linux/installation-ubuntu-desktop44.png" alt="" width="608" />
+
 <img src="images/Commandes-Linux/installation-ubuntu-desktop44-1.png" alt="" width="608" />
 
 **Lecture complémentaire ->**  [Permissions Unix](https://fr.wikipedia.org/wiki/Permissions_UNIX)
