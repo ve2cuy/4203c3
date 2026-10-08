@@ -27,7 +27,7 @@
 
 # Prérequis
 
-- Avoir complété l’atelier ‘[Pile AMP](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/installation-ubuntu-desktop-2/ajout-dune-pile-amp-au-serveur-linux/)‘
+- Avoir complété l’atelier ‘[Pile AMP](Ajout-d-une-pile-AMP.md)‘
 
 ---
 
@@ -43,7 +43,7 @@ sudo apt-get install php7.0 php7.0-mysql libapache2-mod-php7.0 php7.0-cli php7.0
 
 **Action 2** – Créer, avec phpmyadmin, un utilisateur et une BD pour les contenus et la gestion de WordPress
 
-[![](images/Installer-WordPress/wp-bd-01.png)](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/installer-wordpress/wp-bd-01/)
+![](images/Installer-WordPress/wp-bd-01.png)
 
 **Note**: Si **phpMyAdmin** n’est pas disponible, il est possible d’utiliser la ligne de commande pour créer la BD WP:
 
@@ -69,7 +69,7 @@ Ou
 - cocher: **Créer une BD portant son nom**
 - cocher: **Donner les privilèges** [passepartout](https://www.youtube.com/watch?v=figqUaxP-nQ)
 
-[![](images/Installer-WordPress/wp-bd-02.png)](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/installer-wordpress/wp-bd-02/)
+![](images/Installer-WordPress/wp-bd-02.png)
 
 **Action 3** – À partir de la console de commandes, obtenir du web, la version la plus récente de WordPress:
 
@@ -117,29 +117,29 @@ http://192.168.56.101/wordpress
 
 **Action 9** – Sélectionner la langue du site WP
 
-[![](images/Installer-WordPress/config-wp-02.png)](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/installer-wordpress/config-wp-02/)
+![](images/Installer-WordPress/config-wp-02.png)
 
 **Action 10** – Suivre les étapes à l’écran
 
-[![](images/Installer-WordPress/config-wp-03-1024x810.png)](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/installer-wordpress/config-wp-03/)
+![](images/Installer-WordPress/config-wp-03-1024x810.png)
 
 **Action 11** – Renseigner les paramètres de configuration
 
-[![](images/Installer-WordPress/config-wp-04-1024x810.png)](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/installer-wordpress/config-wp-04/)
+![](images/Installer-WordPress/config-wp-04-1024x810.png)
 
 **Action 12** – Valider le tout!
 
-[![](images/Installer-WordPress/config-wp-05.png)](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/installer-wordpress/config-wp-05/)
+![](images/Installer-WordPress/config-wp-05.png)
 
 **Action 13** – Renseigner le titre du site et le compte de l’administrateur
 
-[![](images/Installer-WordPress/config-wp-06-842x1024.png)](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/installer-wordpress/config-wp-06/)
+![](images/Installer-WordPress/config-wp-06-842x1024.png)
 
-[![](images/Installer-WordPress/config-wp-07.png)](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/installer-wordpress/config-wp-07/)
+![](images/Installer-WordPress/config-wp-07.png)
 
 **Action 14** – Tester le login sous le compte de l’administrateur du site:
 
-[![](images/Installer-WordPress/config-wp-08.png)](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/installer-wordpress/config-wp-08/) [![](images/Installer-WordPress/config-wp-09-1024x682.png)](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/installer-wordpress/config-wp-09/)
+![](images/Installer-WordPress/config-wp-08.png) ![](images/Installer-WordPress/config-wp-09-1024x682.png)
 
 **Voilà, notre site WordPress est installé et fonctionnel**
 

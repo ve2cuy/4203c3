@@ -6,7 +6,7 @@
 
 # Contenu
 
-[![](images/Ajout-d-une-pile-AMP/mamp.png)](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/page-d-exemple/mamp/)
+![](images/Ajout-d-une-pile-AMP/mamp.png)
 
 - Connexion au serveur (ssh)
 - sudo apt-get update
@@ -33,7 +33,7 @@
 
 # Prérequis
 
-- Avoir complété l’atelier ‘[Installation d’Ubuntu-Desktop](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/installation-ubuntu-desktop-2/)‘
+- Avoir complété l’atelier ‘[Installation d’Ubuntu-Desktop](Virtualisation-d-Ubuntu.md)‘
 
 ---
 
@@ -43,7 +43,7 @@
 
 Une fois le serveur Linux installé, les opérations de mise à jour, d’installation de services et de configuration sont habituellement effectuées à distance, c-a-d, pas directement sur l’ordinateur physique sur lequel roule le système mais plutôt à partir d’une session (ssh) qui peut être à des kilomètres du serveur.
 
-Le serveur Ubuntu que nous avons installé à l’[atelier précédent](http://prof-tim.cstj.qc.ca/cours/assemblage/wp/installation-ubuntu-desktop-2/) ne permet pas, pour l’instant, de connexion à partir d’une autre station réseau.
+Le serveur Ubuntu que nous avons installé à l’[atelier précédent](Virtualisation-d-Ubuntu.md) ne permet pas, pour l’instant, de connexion à partir d’une autre station réseau.
 
 Si c’était le cas, il serait alors possible de s’y connecter de la façon suivante:
 
