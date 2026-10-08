@@ -20,7 +20,7 @@ Les serveurs d’entreprises sont essentiellement des PC de haut niveau qui prop
 
 ## 1.1 – CPUs multiple sur carte mère
 
-![](images/Serveurs-d-entreprises/114882-1-1024x573.jpg)
+<img src="images/Serveurs-d-entreprises/114882-1-1024x573.jpg" alt="" width="512" />
 
 HP Proliant DL580 G7 Server CPU / Memory Board
 
@@ -28,7 +28,7 @@ HP Proliant DL580 G7 Server CPU / Memory Board
 
 ## 1.2 – Blocs d’alimentation
 
-![](images/Serveurs-d-entreprises/serveur4PS-1024x680.gif)
+<img src="images/Serveurs-d-entreprises/serveur4PS-1024x680.gif" alt="" width="512" />
 
 ---
 
@@ -38,7 +38,7 @@ HP Proliant DL580 G7 Server CPU / Memory Board
 
 Ce type de mémoire est couramment utilisé dans les serveurs d’entreprises. Il est à noté que son coût est plus élevé que la mémoire RAM conventionnelle.
 
-![](images/Serveurs-d-entreprises/ECC.png)
+<img src="images/Serveurs-d-entreprises/ECC.png" alt="" width="320" />
 
 **Note**: Les connecteurs pour les barrettes mémoire RAM ECC et NON ECC ne sont pas compatibles. Par exemple, il n’est pas possible d’installer des barrettes NON ECC dans un serveur conçu pour fonctionner avec des RAM ECC.
 
@@ -70,7 +70,7 @@ Permet de créer un volume à partir de plusieurs disques.
 
 **Désavantage**, Le bris d’un seul disque entraine la perte de toutes les données.
 
-![](images/Serveurs-d-entreprises/800px-RAID_0.svg_-665x1024.png)
+<img src="images/Serveurs-d-entreprises/800px-RAID_0.svg_-665x1024.png" alt="" width="332" />
 
 ### 1.4.3.2 – RAID 1 (Mirror)
 
@@ -80,7 +80,7 @@ Le contenu du premier disque est copié vers le deuxième disque.
 
 **Désavantage**, augmentation des couts mais pas de l’espace de stockage.
 
-![](images/Serveurs-d-entreprises/800px-RAID_1.svg_-665x1024.png)
+<img src="images/Serveurs-d-entreprises/800px-RAID_1.svg_-665x1024.png" alt="" width="332" />
 
 ### 1.4.3.3 – RAID 10 (striping of mirrors)
 
@@ -88,7 +88,7 @@ Le contenu du premier disque est copié vers le deuxième disque.
 
 **Désavantage**: Coût élevé.
 
-![](images/Serveurs-d-entreprises/RAID10-01.png)
+<img src="images/Serveurs-d-entreprises/RAID10-01.png" alt="" width="304" />
 
 ### 1.4.3.4 – RAID5 (Parity)
 
@@ -98,7 +98,7 @@ Par contre, RAID5 protège contre la perte d’un seul disque du vecteur de disq
 
 La perte d’un disque n’entrainera pas la perte de données.
 
-![](images/Serveurs-d-entreprises/1280px-RAID_5.svg_-1024x758.png)
+<img src="images/Serveurs-d-entreprises/1280px-RAID_5.svg_-1024x758.png" alt="" width="512" />
 
 ### 1.4.3.5 – RAID6 (Double parité)
 
@@ -106,7 +106,7 @@ Un volume de stockage est créé à partir d’un minimum de 4 disques. Il n’y
 
 La perte de deux disques n’entrainera pas la perte de données.
 
-![](images/Serveurs-d-entreprises/1920px-RAID_6.svg_-1024x602.png)
+<img src="images/Serveurs-d-entreprises/1920px-RAID_6.svg_-1024x602.png" alt="" width="512" />
 
 **NOTE IMPORTANTE**: Il ne faut JAMAIS considérer la technologie RAID comme étant une solution de sauvegarde – backup – des données.
 
@@ -128,11 +128,11 @@ Par exemple, un serveur de type 2U occupera 19 pouces par 2* 1,75 pouce d’espa
 
 **Voici un serveur de type 2U:**
 
-![](images/Serveurs-d-entreprises/Gigabyte-G291-281-Front-Angle.jpg)
+<img src="images/Serveurs-d-entreprises/Gigabyte-G291-281-Front-Angle.jpg" alt="" width="500" />
 
 Voici un serveur de ty**pe 1U:**
 
-![](images/Serveurs-d-entreprises/71CdVXecjYL._AC_SY450_-1024x435.jpg)
+<img src="images/Serveurs-d-entreprises/71CdVXecjYL._AC_SY450_-1024x435.jpg" alt="" width="512" />
 
 ---
 
@@ -144,21 +144,21 @@ Un rack mesure typiquement 42U1 de haut, soit un peu plus de six pieds (soit 1,
 
 **Voici un rack 42U1**:
 
-![](images/Serveurs-d-entreprises/Lenovo-42U-1200mm-rack-red-logo.jpg)
+<img src="images/Serveurs-d-entreprises/Lenovo-42U-1200mm-rack-red-logo.jpg" alt="" width="440" />
 
 Voici un rack contenant des serveurs de type U:
 
-![](images/Serveurs-d-entreprises/server-rack-vs-network-rack.jpg)
+<img src="images/Serveurs-d-entreprises/server-rack-vs-network-rack.jpg" alt="" width="400" />
 
 Vue de l’arrière du rack
 
-![](images/Serveurs-d-entreprises/7790.jpg_wh300.jpg)
+<img src="images/Serveurs-d-entreprises/7790.jpg_wh300.jpg" alt="" width="225" />
 
 ---
 
 ## 1.6.3. – Montage d’un serveur dans un rack de type U
 
-[![▶ A DAY in the LIFE of the DATA CENTRE | RACKING SERVERS with ASH & JAMES!](images/Serveurs-d-entreprises/youtube-wFCc3ts74pQ.jpg)](https://www.youtube.com/watch?v=wFCc3ts74pQ)
+[<img src="images/Serveurs-d-entreprises/youtube-wFCc3ts74pQ.jpg" alt="▶ A DAY in the LIFE of the DATA CENTRE | RACKING SERVERS with ASH & JAMES!" width="240" />](https://www.youtube.com/watch?v=wFCc3ts74pQ)
 
 ▶️ *Vidéo :* [A DAY in the LIFE of the DATA CENTRE | RACKING SERVERS with ASH & JAMES!](https://www.youtube.com/watch?v=wFCc3ts74pQ)
 

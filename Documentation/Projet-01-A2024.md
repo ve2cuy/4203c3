@@ -6,7 +6,7 @@
 
 ## ÉNONCÉ
 
-![](images/Projet-01-A2024/PngItem_526575-1024x536.png)
+<img src="images/Projet-01-A2024/PngItem_526575-1024x536.png" alt="" width="512" />
 
 ---
 
@@ -56,7 +56,7 @@ Voici le détail du site par **défaut**.
 
 ## 2.1 – Capture d’écran du site par défaut
 
-![](images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-11.59.41-1024x801.png)
+<img src="images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-11.59.41-1024x801.png" alt="" width="512" />
 
 **2.1.2 – IMPORTANT**: Il faut éditer le fichier html pour y inscrire votre nom au bas de la page.
 
@@ -72,7 +72,7 @@ Les fichiers du site web par défaut doivent-être installés dans le dossier **
 
 Si l’URL du site web par défaut contient le nom d’un document invalide, par exemple, http://mon-projet.com/document-invalide.html, la page suivante sera affichée:
 
-![](images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-12.13.02-1024x772.png)
+<img src="images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-12.13.02-1024x772.png" alt="" width="512" />
 
 **Astuce** 😉
 
@@ -92,7 +92,7 @@ Le site par défaut doit autoriser les accès qu’à partir des plages d’adre
 
 Un requête à partir d’une adresse autre que celles autorisées affichera la page suivante:
 
-![](images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-12.38.45-1024x717.png)
+<img src="images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-12.38.45-1024x717.png" alt="" width="512" />
 
 ---
 
@@ -100,7 +100,7 @@ Un requête à partir d’une adresse autre que celles autorisées affichera la 
 
 Pour toutes requêtes qui débutent par http://mon-projet/inf, il faut programmer, dans le fichier .htaccess, une redirection vers le document ‘information.html‘.
 
-![](images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-15.05.32-1024x791.png)
+<img src="images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-15.05.32-1024x791.png" alt="" width="512" />
 
 ---
 
@@ -132,13 +132,13 @@ En utilisant WordPress, déployer un site pour votre portfolio
 
 Saisir **http://portfolio.com** dans un fureteur devrait afficher ceci:
 
-![](images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-13.47.24-1024x546.png)
+<img src="images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-13.47.24-1024x546.png" alt="" width="512" />
 
 Le thème sélectionné aura peut-être besoin de fichiers médias supplémentaires, il faut les installer.
 
 Pour le thème que j’ai sélectionné dans cet exemple, j’ai dû installer l’extension ‘Mesmerize’ pour que les images s’affichent.
 
-![](images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-13.37.01.png)
+<img src="images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-13.37.01.png" alt="" width="301" />
 
 ---
 
@@ -178,7 +178,7 @@ rm -R /phpbb/install
 
 4.1 – Saisir **http://babillard.com** dans un fureteur devrait afficher ceci:
 
-![](images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-14.36.36-1024x851.png)
+<img src="images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-14.36.36-1024x851.png" alt="" width="512" />
 
 **NOTE**: Les éléments d’interface sont en anglais.
 
@@ -200,11 +200,11 @@ git clone https://github.com/qiaeru/phpbb-language-fr
 sudo mv fr/ /var/www/html/phpBB3/language
 ```
 
-![](images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-13.28.44-1024x459.png)
+<img src="images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-13.28.44-1024x459.png" alt="" width="512" />
 
 4.2.1 – Avec une installation et une configuration correctes, le babillard devrait s’afficher ainsi:
 
-![](images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-13.30.38-1024x744.png)
+<img src="images/Projet-01-A2024/Capture-decran-le-2024-10-09-a-13.30.38-1024x744.png" alt="" width="512" />
 
 **NOTE**: Vous devrez probablement faire quelques recherches pour réaliser cette étape.
 

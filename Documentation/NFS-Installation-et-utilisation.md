@@ -6,7 +6,7 @@
 
 .
 
-![](images/NFS-Installation-et-utilisation/nfs02.jpg)
+<img src="images/NFS-Installation-et-utilisation/nfs02.jpg" alt="" width="175" />
 
 .
 
@@ -93,12 +93,12 @@ Voici un exemple sur **Google Cloud**:
 
 Option -> Menu de navigation -> VPC Network -> Firewall
 
-![](images/NFS-Installation-et-utilisation/Capture-decran-2024-11-13-a-09.36.01.png)
+<img src="images/NFS-Installation-et-utilisation/Capture-decran-2024-11-13-a-09.36.01.png" alt="" width="214" />
 
 Option:
 
-![](images/NFS-Installation-et-utilisation/Capture-decran-2024-11-13-a-09.47.30.png)
-![](images/NFS-Installation-et-utilisation/Capture-decran-2024-11-13-a-09.37.05.png)
+<img src="images/NFS-Installation-et-utilisation/Capture-decran-2024-11-13-a-09.47.30.png" alt="" width="100" />
+<img src="images/NFS-Installation-et-utilisation/Capture-decran-2024-11-13-a-09.37.05.png" alt="" width="317" />
 
 ---
 

@@ -12,7 +12,7 @@ Amener le participant à comprendre la notion de virtualisation et à utiliser u
 
 # Contenu
 
-![](images/Virtualisation-des-technologies-web/Virtualbox_logo-150x150.png)
+<img src="images/Virtualisation-des-technologies-web/Virtualbox_logo-150x150.png" alt="" width="75" />
 
 - **Définition du concept de virtualisation**
 - **Outils de virtualisation disponibles**
@@ -50,7 +50,7 @@ Dans le cas qui nous occupe;
 
 De plus, il faut suffisamment d’espace pour loger 6 ordinateurs physiques.
 
-![](images/Virtualisation-des-technologies-web/google-first-servers.jpg)
+<img src="images/Virtualisation-des-technologies-web/google-first-servers.jpg" alt="" width="282" />
 
 google.stanford.edu circa 1997
 
@@ -58,7 +58,7 @@ Avec la virtualisation il est possible d’installer tous les services informati
 
 Voici un exemple d’ordinateur couramment utilisé pour ce type de fonction:
 
-![](images/Virtualisation-des-technologies-web/dell-poweredge-r730-rack-server-poweredger730-base-77c.jpg)
+<img src="images/Virtualisation-des-technologies-web/dell-poweredge-r730-rack-server-poweredger730-base-77c.jpg" alt="" width="600" />
 
 Ces ordinateurs permettent l’installation de plusieurs processeurs (CPU) et une grande quantité de mémoire vive (RAM).
 
@@ -66,7 +66,7 @@ Donc, une seule de ces machines serait en mesure de rouler tous les services de 
 
 Pour une entreprise ou une organisation de grande envergure, il est possible d’installer ce type d’ordinateur dans un support à serveurs (server rack)
 
-![](images/Virtualisation-des-technologies-web/datacenter00-1024x683.png)
+<img src="images/Virtualisation-des-technologies-web/datacenter00-1024x683.png" alt="" width="512" />
 
 **Note**: On appelle ce type d’ordinateur ‘headless computer’ car suite à l’installation initiale, ils vont fonctionner sans clavier ni écran.
 
@@ -82,7 +82,7 @@ Cette technique est utilisé lorsqu’un programme a été conçu pour un appare
 
 Par exemple, si nous voulions rouler le jeu ‘**Space invader**‘ conçu pour le **TRS-80** (un des premiers ordinateurs personnelles de l’histoire moderne), il faudrait présenter, à l’application du jeu, un faux TRS-80 en tous points identique, au niveau fonctionnel, à l’original:  le processeur (un Z80 – avec toutes ses instructions), la carte vidéo, le clavier, la mémoire, …
 
-![](images/Virtualisation-des-technologies-web/trs-80.jpg)
+<img src="images/Virtualisation-des-technologies-web/trs-80.jpg" alt="" width="400" />
 
 C’est une approche qui n’est réaliste que si la machine que nous voulons émuler est bien moins performante que l’ordinateur servant à exécuter l’émulateur.
 

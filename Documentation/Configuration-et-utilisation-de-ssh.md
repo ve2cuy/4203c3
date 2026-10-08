@@ -6,7 +6,7 @@
 
 ## Contenu
 
-![](images/Configuration-et-utilisation-de-ssh/220px-Puffy_mascot_openbsd.gif)
+<img src="images/Configuration-et-utilisation-de-ssh/220px-Puffy_mascot_openbsd.gif" alt="" width="110" />
 
 - **Accès à distance;**telnet, ssh
 - **Le protocole SSH**– Historique, openSSH, openSSH-server
@@ -19,7 +19,7 @@
 
 ## 1 – Historique
 
-[![▶ SSH History with Tatu Ylonen](images/Configuration-et-utilisation-de-ssh/youtube-OHBdKM7s5V4.jpg)](https://www.youtube.com/watch?v=OHBdKM7s5V4)
+[<img src="images/Configuration-et-utilisation-de-ssh/youtube-OHBdKM7s5V4.jpg" alt="▶ SSH History with Tatu Ylonen" width="240" />](https://www.youtube.com/watch?v=OHBdKM7s5V4)
 
 ▶️ *Vidéo :* [SSH History with Tatu Ylonen](https://www.youtube.com/watch?v=OHBdKM7s5V4)
 
@@ -202,15 +202,15 @@ Ordre de lecture des options de connexion ssh:
 
 ## 4 – Publier une clé publique sur gitHub
 
-![](images/Configuration-et-utilisation-de-ssh/Capture-decran-le-2021-06-27-a-14.05.48.png)
+<img src="images/Configuration-et-utilisation-de-ssh/Capture-decran-le-2021-06-27-a-14.05.48.png" alt="" width="472" />
 
 ---
 
 ## 5 – Importation de la clé.pub lors de l’installation d’un serveur Ubuntu
 
-![](images/Configuration-et-utilisation-de-ssh/Capture-decran-le-2021-06-27-a-14.02.45.png)
-![](images/Configuration-et-utilisation-de-ssh/Capture-decran-le-2021-06-27-a-14.10.28.png)
-![](images/Configuration-et-utilisation-de-ssh/Capture-decran-le-2021-06-27-a-14.11.44-1024x441.png)
+<img src="images/Configuration-et-utilisation-de-ssh/Capture-decran-le-2021-06-27-a-14.02.45.png" alt="" width="400" />
+<img src="images/Configuration-et-utilisation-de-ssh/Capture-decran-le-2021-06-27-a-14.10.28.png" alt="" width="400" />
+<img src="images/Configuration-et-utilisation-de-ssh/Capture-decran-le-2021-06-27-a-14.11.44-1024x441.png" alt="" width="512" />
 
 Permette au compte ‘root’ un accès ssh (très mauvaise idée ?)
 
@@ -225,7 +225,7 @@ PermitRootLogin yes
 
 La clé pour être associée à une VM lors de la création de cette dernière:
 
-![](images/Configuration-et-utilisation-de-ssh/cloud.google.vm_.cle_.publique.gif)
+<img src="images/Configuration-et-utilisation-de-ssh/cloud.google.vm_.cle_.publique.gif" alt="" width="455" />
 
 ## Se connecter à la VM via ssh en utilisant la clé privée
 

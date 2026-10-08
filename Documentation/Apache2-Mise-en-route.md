@@ -6,7 +6,7 @@
 
 ## 1. Contenu
 
-![](images/Apache2-Mise-en-route/Apache_Logo.png)
+<img src="images/Apache2-Mise-en-route/Apache_Logo.png" alt="" width="225" />
 
 - **Installation**
 - **Dossiers** : /var/www, /etc/apache2
@@ -45,7 +45,7 @@ Il existe plusieurs alternatives à Apache2 pour servir des sites web, chacune a
 
 ## 4. Pré-requis
 
-![](images/Apache2-Mise-en-route/docker-multi-services.png)
+<img src="images/Apache2-Mise-en-route/docker-multi-services.png" alt="" width="312" />
 
 Avoir accès à un serveur Ubuntu à jour.
 
@@ -90,7 +90,7 @@ Dans un fureteur, inscrire l’adresse IP du serveur Ubuntu.
 
 Par exemple,
 
-![](images/Apache2-Mise-en-route/Capture-decran-le-2024-08-31-a-18.45.00.png)
+<img src="images/Apache2-Mise-en-route/Capture-decran-le-2024-08-31-a-18.45.00.png" alt="" width="424" />
 
 ---
 
@@ -362,7 +362,7 @@ sudo tail -f /var/log/apache2/access.log
 
 ## 12.3 – Laboratoire
 
-![](images/Apache2-Mise-en-route/labo.jpg)
+<img src="images/Apache2-Mise-en-route/labo.jpg" alt="" width="225" />
 
 Il faut modifier la configuration du site web par défaut, pour que le contenu Web soit publié à partir du dossier **/la_cie_abc/public_html** – (**ATTENTION**, Il faut créer cette structure à la racine du système de fichiers)
 
@@ -391,7 +391,7 @@ Il faut modifier la configuration du site web par défaut, pour que le contenu W
 
 ## 14 – Site de l’utilisateur
 
-![](images/Apache2-Mise-en-route/user-personas-header.jpg-1024x433.webp)
+<img src="images/Apache2-Mise-en-route/user-personas-header.jpg-1024x433.webp" alt="" width="512" />
 
 ---
 
@@ -440,7 +440,7 @@ usermod -a -G etudiant www-data
 
 ## 14.2 – Laboratoire
 
-![](images/Apache2-Mise-en-route/labo.jpg)
+<img src="images/Apache2-Mise-en-route/labo.jpg" alt="" width="225" />
 
 - Il faut créer l’utilisateur **administrateur**
 - L’URL: **http://adresse_ip_du_serveur/~administrateur**,
@@ -459,7 +459,7 @@ Apache2 propose une méthode pour personnaliser les messages d’erreur Web. Par
 
 Il est possible d’afficher un page personnalisée comme,
 
-![](images/Apache2-Mise-en-route/404b.jpg)
+<img src="images/Apache2-Mise-en-route/404b.jpg" alt="" width="330" />
 
 Ceci sera obtenu grace à la directrice ‘ErrorDocument’. Voici des exemples:
 
@@ -481,7 +481,7 @@ ErrorDocument 403 /errors/forbidden.py?referrer=%{escape:%{HTTP_REFERER}}
 
 ## 15.1 – Personnalisation d’un 404
 
-![](images/Apache2-Mise-en-route/pasted-image-0.png)
+<img src="images/Apache2-Mise-en-route/pasted-image-0.png" alt="" width="343" />
 
 ---
 
@@ -547,7 +547,7 @@ Les balises [RequireAny](https://httpd.apache.org/docs/2.4/mod/mod_authz_core.ht
 
 ## 17 – Les hôtes virtuelles (virtual hosts)
 
-![](images/Apache2-Mise-en-route/virtual_host.jpg)
+<img src="images/Apache2-Mise-en-route/virtual_host.jpg" alt="" width="384" />
 
 [Le document est disponible ici](Apache2-Hotes-virtuels-et-htaccess.md).
 

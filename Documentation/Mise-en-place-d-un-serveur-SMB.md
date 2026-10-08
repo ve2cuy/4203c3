@@ -90,7 +90,7 @@ sudo systemctl status smbd
 
 Ce qui devrait afficher un résultat semblable à ceci:
 
-![](images/Mise-en-place-d-un-serveur-SMB/smbd-status-1024x361.png)
+<img src="images/Mise-en-place-d-un-serveur-SMB/smbd-status-1024x361.png" alt="" width="512" />
 
 **Note**: Il y a deux erreurs de configuration (no such file …) qui seront corrigées à l’étape suivante.
 
@@ -204,17 +204,17 @@ sudo systemctl restart smbd
 
 **Action 10.1** – Explorateur de fichiers Windows, section ‘Réseau’, activer, au besoin, le partage réseau:
 
-![](images/Mise-en-place-d-un-serveur-SMB/samba-01.png)
+<img src="images/Mise-en-place-d-un-serveur-SMB/samba-01.png" alt="" width="401" />
 
 **Action 10.2** – Dans « Réseau », inscrire le nom du serveur Linux dans la barre d’adresse:
 
-![](images/Mise-en-place-d-un-serveur-SMB/samba-2.png)
+<img src="images/Mise-en-place-d-un-serveur-SMB/samba-2.png" alt="" width="292" />
 
 **Note**:  Il faut inscrire \\ devant l’adresse IP ou le nom de la machine à connecter.
 
 **Action 10.3** – Traverser le dossier de partage ‘public’.
 
-![](images/Mise-en-place-d-un-serveur-SMB/samba-3.png)
+<img src="images/Mise-en-place-d-un-serveur-SMB/samba-3.png" alt="" width="286" />
 
 **Action 10.4** – Placer un nouveau fichier dans le dossier de partage
 
@@ -230,7 +230,7 @@ Bienvenue sur notre serveur de partage!
 
 **Action 10.5** – Actualiser la fenêtre de l’explorateur de fichiers Windows et éditer le fichier **lisezmoi.txt** et enregistrer**.**
 
-![](images/Mise-en-place-d-un-serveur-SMB/samba-4.png)
+<img src="images/Mise-en-place-d-un-serveur-SMB/samba-4.png" alt="" width="395" />
 
 **Action 10.5.2** – Créer un nouveau dossier ´test’
 
@@ -344,7 +344,7 @@ sudo systemctl restart smbd nmbd
 
 **Action 12.2** – Tester le nouveau partage sous Windows
 
-![](images/Mise-en-place-d-un-serveur-SMB/samba-6.png)
+<img src="images/Mise-en-place-d-un-serveur-SMB/samba-6.png" alt="" width="324" />
 
 Note:  Il fenêtre de login devrait apparaitre suite à un double clic sur le dossier de partage.
 

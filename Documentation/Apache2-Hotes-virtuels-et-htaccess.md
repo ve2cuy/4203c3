@@ -4,7 +4,7 @@
 
 ---
 
-![](images/Apache2-Hotes-virtuels-et-htaccess/virtual_host.jpg)
+<img src="images/Apache2-Hotes-virtuels-et-htaccess/virtual_host.jpg" alt="" width="384" />
 
 ---
 
@@ -133,7 +133,7 @@ sudo systemctl restart apache2
 
 **Action 1.7** – Il ne reste plus qu’à tester le nouveau site virtuel:
 
-![](images/Apache2-Hotes-virtuels-et-htaccess/Capture-decran-le-2021-09-21-a-16.25.38.png)
+<img src="images/Apache2-Hotes-virtuels-et-htaccess/Capture-decran-le-2021-09-21-a-16.25.38.png" alt="" width="506" />
 
 **NOTE IMPORTANTE** : Vous devez avoir renseigner un nom de domaine dans votre fichier ‘hosts’ local pour pouvoir utiliser ‘site1.abc’ dans l’adresse du fureteur. Pour Windows, ce fichier est localisé dans C:\windows\system32\drivers\etc.
 
@@ -226,7 +226,7 @@ Il faut proposer le site web de la ***cie-abc.tropcool*** sous wordpress version
 - Renseigner le nom de domaine dans le fichier hosts local.
 - Tester avec l’URL ***http://cie-abc.tropcool***.
 
-![](images/Apache2-Hotes-virtuels-et-htaccess/Capture-decran-le-2021-09-21-a-17.56.10-1024x803.png)
+<img src="images/Apache2-Hotes-virtuels-et-htaccess/Capture-decran-le-2021-09-21-a-17.56.10-1024x803.png" alt="" width="512" />
 
 ---
 
@@ -335,15 +335,15 @@ Il faut renseigner un fichier .htaccess pour le site site1.abc avec les directiv
 
 - La requête d’une page inexistante retourne ceci:
 
-![](images/Apache2-Hotes-virtuels-et-htaccess/Capture-decran-le-2024-10-02-a-12.44.30-1024x260.png)
+<img src="images/Apache2-Hotes-virtuels-et-htaccess/Capture-decran-le-2024-10-02-a-12.44.30-1024x260.png" alt="" width="512" />
 
 - Une requête à partir d’une adresse IP autre que celle de votre poste de travail ou celle de votre voisin, retourne ceci:
 
-![](images/Apache2-Hotes-virtuels-et-htaccess/Capture-decran-le-2024-10-02-a-12.57.05-1024x285.png)
+<img src="images/Apache2-Hotes-virtuels-et-htaccess/Capture-decran-le-2024-10-02-a-12.57.05-1024x285.png" alt="" width="512" />
 
 - Écrire une règle .htaccess qui renvoi toute requête débutant par ind vers index.html
 
-![](images/Apache2-Hotes-virtuels-et-htaccess/Capture-decran-le-2024-10-02-a-13.22.06-1024x283.png)
+<img src="images/Apache2-Hotes-virtuels-et-htaccess/Capture-decran-le-2024-10-02-a-13.22.06-1024x283.png" alt="" width="512" />
 
 **NOTE**: Vous pouvez utiliser chatgpt pour cette règle.
 

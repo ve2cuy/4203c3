@@ -4,7 +4,7 @@
 
 ---
 
-![](images/Installation-d-un-serveur-FTP/raw.png)
+<img src="images/Installation-d-un-serveur-FTP/raw.png" alt="" width="256" />
 
 ---
 
@@ -53,7 +53,7 @@ Il existe deux types de connexions **ftp**;
 
 **Action 2.2** – Ouvrir une session ftp sur le serveur  [ftp.hp.com](ftp://ftp.hp.com)
 
-![](images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-17.37.27.png)
+<img src="images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-17.37.27.png" alt="" width="429" />
 
 ---
 
@@ -187,8 +187,8 @@ sudo service vsftpd restart
 
 **Étape 5.2** – Établir une connexion au serveur FTP
 
-![](images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-16.53.12-1024x537.png)
-![](images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-18.04.32.png)
+<img src="images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-16.53.12-1024x537.png" alt="" width="512" />
+<img src="images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-18.04.32.png" alt="" width="430" />
 
 **Action 5.3** – Effectuer un téléversement ?
 
@@ -258,9 +258,9 @@ sudo service vsftpd restart
 
 **Action 7.4** – Tester l’accès anonyme
 
-![](images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-18.45.28.png)
-![](images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-18.49.58.png)
-![](images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-18.50.17.png)
+<img src="images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-18.45.28.png" alt="" width="433" />
+<img src="images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-18.49.58.png" alt="" width="250" />
+<img src="images/Installation-d-un-serveur-FTP/Capture-decran-le-2022-03-28-a-18.50.17.png" alt="" width="394" />
 
 ---
 

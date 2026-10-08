@@ -6,7 +6,7 @@
 
 # Contenu
 
-![](images/Installer-WordPress/wp-300x300.png)
+<img src="images/Installer-WordPress/wp-300x300.png" alt="" width="150" />
 
 - Installer WordPress sur un serveur LAMP.
 - Installer les modules php requis.
@@ -43,7 +43,7 @@ sudo apt-get install php7.0 php7.0-mysql libapache2-mod-php7.0 php7.0-cli php7.0
 
 **Action 2** – Créer, avec phpmyadmin, un utilisateur et une BD pour les contenus et la gestion de WordPress
 
-![](images/Installer-WordPress/wp-bd-01.png)
+<img src="images/Installer-WordPress/wp-bd-01.png" alt="" width="441" />
 
 **Note**: Si **phpMyAdmin** n’est pas disponible, il est possible d’utiliser la ligne de commande pour créer la BD WP:
 
@@ -69,7 +69,7 @@ Ou
 - cocher: **Créer une BD portant son nom**
 - cocher: **Donner les privilèges** [passepartout](https://www.youtube.com/watch?v=figqUaxP-nQ)
 
-![](images/Installer-WordPress/wp-bd-02.png)
+<img src="images/Installer-WordPress/wp-bd-02.png" alt="" width="372" />
 
 **Action 3** – À partir de la console de commandes, obtenir du web, la version la plus récente de WordPress:
 
@@ -117,29 +117,29 @@ http://192.168.56.101/wordpress
 
 **Action 9** – Sélectionner la langue du site WP
 
-![](images/Installer-WordPress/config-wp-02.png)
+<img src="images/Installer-WordPress/config-wp-02.png" alt="" width="470" />
 
 **Action 10** – Suivre les étapes à l’écran
 
-![](images/Installer-WordPress/config-wp-03-1024x810.png)
+<img src="images/Installer-WordPress/config-wp-03-1024x810.png" alt="" width="512" />
 
 **Action 11** – Renseigner les paramètres de configuration
 
-![](images/Installer-WordPress/config-wp-04-1024x810.png)
+<img src="images/Installer-WordPress/config-wp-04-1024x810.png" alt="" width="512" />
 
 **Action 12** – Valider le tout!
 
-![](images/Installer-WordPress/config-wp-05.png)
+<img src="images/Installer-WordPress/config-wp-05.png" alt="" width="464" />
 
 **Action 13** – Renseigner le titre du site et le compte de l’administrateur
 
-![](images/Installer-WordPress/config-wp-06-842x1024.png)
+<img src="images/Installer-WordPress/config-wp-06-842x1024.png" alt="" width="421" />
 
-![](images/Installer-WordPress/config-wp-07.png)
+<img src="images/Installer-WordPress/config-wp-07.png" alt="" width="458" />
 
 **Action 14** – Tester le login sous le compte de l’administrateur du site:
 
-![](images/Installer-WordPress/config-wp-08.png) ![](images/Installer-WordPress/config-wp-09-1024x682.png)
+<img src="images/Installer-WordPress/config-wp-08.png" alt="" width="458" /> <img src="images/Installer-WordPress/config-wp-09-1024x682.png" alt="" width="512" />
 
 **Voilà, notre site WordPress est installé et fonctionnel**
 

@@ -6,7 +6,7 @@
 
 # Contenu
 
-![](images/Commandes-Linux/ubuntu.logo_-1024x1024.png)
+<img src="images/Commandes-Linux/ubuntu.logo_-1024x1024.png" alt="" width="512" />
 
 - Connexion ssh
 - Le dossier de l’utilisateur: **~/**
@@ -186,8 +186,8 @@ Par exemple,
 
 # Voici un schéma résumant les concepts de base
 
-![](images/Commandes-Linux/installation-ubuntu-desktop44.png)
-![](images/Commandes-Linux/installation-ubuntu-desktop44-1.png)
+<img src="images/Commandes-Linux/installation-ubuntu-desktop44.png" alt="" width="608" />
+<img src="images/Commandes-Linux/installation-ubuntu-desktop44-1.png" alt="" width="608" />
 
 **Lecture complémentaire ->**  [Permissions Unix](https://fr.wikipedia.org/wiki/Permissions_UNIX)
 

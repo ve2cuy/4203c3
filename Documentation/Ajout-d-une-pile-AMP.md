@@ -6,7 +6,7 @@
 
 # Contenu
 
-![](images/Ajout-d-une-pile-AMP/mamp.png)
+<img src="images/Ajout-d-une-pile-AMP/mamp.png" alt="" width="128" />
 
 - Connexion au serveur (ssh)
 - sudo apt-get update

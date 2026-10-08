@@ -3,7 +3,7 @@
 *Services réseaux locaux et en nuages — Version du document : 2024.08.21 - Conversion Markdown 2026.10.08*
 
 <p align="center">
-    <img src="Documentation/images/Serveurs-d-entreprises/Gigabyte-G291-281-Front-Angle.jpg" alt="Serveur" width="300" />
+    <img src="Documentation/images/Serveurs-d-entreprises/Gigabyte-G291-281-Front-Angle.jpg" alt="Serveur" width="150" />
 </p>
 
 ### Cours préparé par Alain Boudreault

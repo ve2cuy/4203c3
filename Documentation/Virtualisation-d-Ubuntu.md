@@ -6,7 +6,7 @@
 
 ##### Document en cours de rédaction …
 
-![](images/Virtualisation-d-Ubuntu/ubuntu.logo_-1024x1024.png)
+<img src="images/Virtualisation-d-Ubuntu/ubuntu.logo_-1024x1024.png" alt="" width="512" />
 
 Au courant de la session, nous verrons comment mettre en place et assurer la configuration des services couramment utilisés par les applications modernes. Règles générales, ces services sont déployés en infonuagique sur des serveurs de type Linux.
 
@@ -18,7 +18,7 @@ Pour débuter, nous commencerons par une virtualisation locale d’un serveur Li
 
 **Étape 01** : [Télécharger Oracle VM VirtualBox via ce lien](https://www.virtualbox.org/wiki/Downloads)
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-171446.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-171446.png" alt="" width="490" />
 
 **QUESTION** : Pourquoi utiliser VirtualBox?
 
@@ -28,7 +28,7 @@ Pour débuter, nous commencerons par une virtualisation locale d’un serveur Li
 
 **Étape 02** : [Télécharger Ubuntu serveur via ce lien](https://ubuntu.com/download/server)
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-171917-1024x656.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-171917-1024x656.png" alt="" width="512" />
 
 **QUESTION**: Que veux dire LTS au bout du numéro de version?
 
@@ -40,11 +40,11 @@ Pour débuter, nous commencerons par une virtualisation locale d’un serveur Li
 
 **Étape 03** : Démarrer l’application VirtualBox
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-172323-1024x492.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-172323-1024x492.png" alt="" width="512" />
 
 **PRÉ-REQUIS**: S’assurer que le dossier par défaut des machines virtuelles de VirtualBox est sur un disque contenant suffisamment d’espace. Le disque C: des postes de travail du local D139 est souvent saturé.
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-20-160143-1024x245.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-20-160143-1024x245.png" alt="" width="512" />
 
 ---
 
@@ -52,11 +52,11 @@ Pour débuter, nous commencerons par une virtualisation locale d’un serveur Li
 
 Ajouter l’image du CDROM d’installation à la bibliothèque de VirtualBox:
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-173029-1024x703.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-173029-1024x703.png" alt="" width="512" />
 
 **Étape 05** : Ajouter la référence au fichier d’installation d’Ubuntu serveur.
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-173322-1024x267.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-173322-1024x267.png" alt="" width="512" />
 
 ---
 
@@ -68,7 +68,7 @@ Ajouter l’image du CDROM d’installation à la bibliothèque de VirtualBox:
 
 - Nom, localisation des fichiers de la VM, disque d’installation et ‘**skip Unattended Installation**‘;
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-173922-1024x649.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-173922-1024x649.png" alt="" width="512" />
 
 **ATTENTION** – Ne pas passer à l’étape suivante avant d’avoir sélectionné ‘**skip Unattended Installation**‘.
 
@@ -76,25 +76,25 @@ Ajouter l’image du CDROM d’installation à la bibliothèque de VirtualBox:
 
 - 6.2 – Mémoire vive et nombre de CPUs
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-174153-1024x650.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-174153-1024x650.png" alt="" width="512" />
 
 ---
 
 - 6.3 – Taille du disque virtuel
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-174238-1024x646.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-174238-1024x646.png" alt="" width="512" />
 
 ---
 
 - 6.4 – Récapitulatif et confirmation
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-174306-1024x647.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-174306-1024x647.png" alt="" width="512" />
 
 ---
 
 Retour à l’écran de bienvenue de virtualBox
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-174337-1024x445.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-174337-1024x445.png" alt="" width="512" />
 
 La machine virtuelle qui servira à installer et à exploiter Ubuntu serveur est maintenant créée.
 
@@ -104,11 +104,11 @@ Il reste quelques paramètres supplémentaire à renseigner.
 
 **Étape 07** : Sélectionner l’option ‘Configuration’
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-175227-1024x740.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-175227-1024x740.png" alt="" width="512" />
 
 7.1 – Suivi de l’option ‘**Réseau**‘ et renseigner la première interface réseau à ‘**Accès par pont**‘ (bridge):
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-175309-1024x737.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-175309-1024x737.png" alt="" width="512" />
 
 **Cette option assure que la machine virtuelle aura une adresse IP dans la même plage que le réseau de la station hôte.**
 
@@ -118,7 +118,7 @@ Voilà, les préparatif de départ sont terminés, il ne reste plus qu’à dém
 
 **Étape 08** : Appuyer sur l’option ‘**Démarrer**‘
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-180429.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-180429.png" alt="" width="364" />
 
 ---
 
@@ -126,18 +126,18 @@ Voilà, les préparatif de départ sont terminés, il ne reste plus qu’à dém
 
 **Étape 09** : Sélection de la langage d’installation:
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-180726-1024x815.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-180726-1024x815.png" alt="" width="512" />
 
 **Étape 10** : Sélection du clavier – disposition des touches du clavier.
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-180832-1024x755.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-180832-1024x755.png" alt="" width="512" />
 
 **Étape 11** : Sélection du type de serveur:
 
 - Serveur
 - Serveur minimal avec peu de logins
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-180849-1024x755.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-180849-1024x755.png" alt="" width="512" />
 
 ---
 
@@ -145,21 +145,21 @@ Voilà, les préparatif de départ sont terminés, il ne reste plus qu’à dém
 
 Par défaut, une configuration DHCP est proposée. La carte réseau de la machine virtuelle, renseignée en mode Pont, devrait recevoir une adresse IP – du serveur DHCP.
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-181203-1024x252.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-181203-1024x252.png" alt="" width="512" />
 
 **NOTE**: La machine virtuelle devrait avoir une adresse IP dans la même classe IP que votre poste de travail. Si ce n’est pas le cas, il faut corriger la situation avant de continuer l’installation.
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-181615-1024x652.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-181615-1024x652.png" alt="" width="512" />
 
 ---
 
 **Étape 13** : Recherche des serveurs miroirs Ubuntu externes – requis pour les mises à jour pendant l’installation.
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-181639-1024x650.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-181639-1024x650.png" alt="" width="512" />
 
 **Étape 14** : Renseignement des paramètres du/des disque/s de la VM.
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-181700-1024x652.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-181700-1024x652.png" alt="" width="512" />
 
 ---
 
@@ -173,9 +173,9 @@ Une **partition LVM** (Logical Volume Manager) est une méthode de gestion des
 
 ---
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-181724-1024x652.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-181724-1024x652.png" alt="" width="512" />
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-181751-1024x523.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-181751-1024x523.png" alt="" width="512" />
 
 ---
 
@@ -183,20 +183,20 @@ Une **partition LVM** (Logical Volume Manager) est une méthode de gestion des
 
 **NOTE**: Un autre compte sera disponible, au besoin, pour la gestion du serveur. Il se nomme ‘root’. Il n’est pas recommandé de l’utiliser et il possède un mot de passe inconnu à cette étape.
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-191058-1024x344.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-191058-1024x344.png" alt="" width="512" />
 
 - Votre nom = **etudiant**
 - Your servers name = **serveur01**
 - Choisir un nom d’utilisateur = **etudiant**
 - Choisir un mot de passe = **password**
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-191125-1024x248.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-191125-1024x248.png" alt="" width="512" />
 
 ---
 
 **Étape 16** : Installation du service openssh-server. **Ce service est absolument requis pour la connexion à distance au serveur**.
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-191154-1024x403.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-191154-1024x403.png" alt="" width="512" />
 
 **NOTE**: Clé SSH couvert dans ce [laboratoire](Configuration-et-utilisation-de-ssh.md)
 
@@ -206,7 +206,7 @@ Une **partition LVM** (Logical Volume Manager) est une méthode de gestion des
 
 **NOTE**: Nous installerons des applications manuellement plus tard…
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-191224-1024x784.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-191224-1024x784.png" alt="" width="512" />
 
 ---
 
@@ -214,19 +214,19 @@ Une **partition LVM** (Logical Volume Manager) est une méthode de gestion des
 
 **NOTE**: Il ne reste plus qu’à attendre le fin de l’installation 😉
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-191242-1024x789.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-191242-1024x789.png" alt="" width="512" />
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-191837-1024x785.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-191837-1024x785.png" alt="" width="512" />
 
 **Étape 18** : L’installation d’Ubuntu Serveur est terminée. Il ne reste qu’à ‘**Redémarrer maintenant**‘
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-193627-1024x782.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-193627-1024x782.png" alt="" width="512" />
 
 ---
 
 ## Partie 04 – Login au serveur Ubuntu
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-194459.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-194459.png" alt="" width="354" />
 
 **Étape 19** : Ouverture d’une session directement via la VM
 
@@ -234,7 +234,7 @@ Une **partition LVM** (Logical Volume Manager) est une méthode de gestion des
 
 ---
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-194540-1024x1013.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-194540-1024x1013.png" alt="" width="512" />
 
 ---
 
@@ -244,7 +244,7 @@ Une session SSH permet de se connecter à un serveur à partir d’un lieu dista
 
 Pour ce faire, il faut connaitre l’adresse IP du serveur.
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-200718-1024x287.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-200718-1024x287.png" alt="" width="512" />
 
 **Étape 20** : Obtenir l’adresse IP de notre serveur Ubuntu, avec la commade ‘***ip a***‘
 
@@ -258,7 +258,7 @@ Pour cette VM, l’adresse IP est 192.168.2.221
 ssh etudiant@adresseIPduServeur
 ```
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-201240-1024x929.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-09-201240-1024x929.png" alt="" width="512" />
 
 En cas de problème, s’assurer que le service ssh roule:
 
@@ -286,11 +286,11 @@ $ sudo apt install openssh-server -y
 2. Naviguer dans le dossier ***\windows\system32\drivers\etc***
 3. Éditer le fichier ‘***hosts***‘
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-20-151001.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-20-151001.png" alt="" width="402" />
 
 **Étape 23** : Ajouter une référence à l’adresse IP du serveur Ubuntu:
 
-![](images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-20-151549-1024x361.png)
+<img src="images/Virtualisation-d-Ubuntu/Capture-decran-2024-08-20-151549-1024x361.png" alt="" width="512" />
 
 23.1 – Enregistrer les changements
 

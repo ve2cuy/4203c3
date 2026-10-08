@@ -6,7 +6,7 @@
 
 # Déployer des services en nuage
 
-![](images/Epreuve-synthese-2024/pngegg.png)
+<img src="images/Epreuve-synthese-2024/pngegg.png" alt="" width="300" />
 
 ### Version 1.0
 
@@ -32,7 +32,7 @@ Le point de départ étant un site WordPress, sécurisé, proposant un menu vers
 
 Voici un exemple,
 
-[![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-16.23.43-1024x662.png)](https://mon-projet.freeddns.org)
+[<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-16.23.43-1024x662.png" alt="" width="512" />](https://mon-projet.freeddns.org)
 
 **NOTE**: L’image est un lien vers une version fonctionnelle du projet.
 
@@ -80,7 +80,7 @@ Créer deux VM **Ubuntu 24.04:**
   - Ajouter un utilisateur ‘**sysadmin**‘ membre du groupe ‘sudo’
     - Utiliser la clé ssh de sysadmin, générée pour serveur01
 
-![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-21-a-14.01.48-1024x271.png)
+<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-21-a-14.01.48-1024x271.png" alt="" width="512" />
 
 ---
 
@@ -88,7 +88,7 @@ Créer deux VM **Ubuntu 24.04:**
 
 **Associer la clé publique aux deux VM. Il faut tester la clé à partir d’une session ‘ssh’.**
 
-![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-21-a-14.17.55-1024x272.png)
+<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-21-a-14.17.55-1024x272.png" alt="" width="512" />
 
 **NOTE: Il faudra m’envoyer la clé privée du compte sysadmin pour la correction du projet.**
 
@@ -96,7 +96,7 @@ Créer deux VM **Ubuntu 24.04:**
 
 ## 1.1 – Serveur01
 
-![](images/Epreuve-synthese-2024/cover_2017_08_01-01.png)
+<img src="images/Epreuve-synthese-2024/cover_2017_08_01-01.png" alt="" width="370" />
 
 ---
 
@@ -130,7 +130,7 @@ Sur **serveur01**, mettre en place un site web **WordPress** proposant un menu o
 
 Voici un exemple sous dyne.com
 
-![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-21-a-13.55.15.png)
+<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-21-a-13.55.15.png" alt="" width="434" />
 
 **NOTE**: Le champ IPv4 renseigne l’adresse IP externe de la VM serveur01.
 
@@ -146,7 +146,7 @@ Voici un exemple sous dyne.com
 
 ## 1.4 – Serveur-nfs
 
-![](images/Epreuve-synthese-2024/nfs.png)
+<img src="images/Epreuve-synthese-2024/nfs.png" alt="" width="256" />
 
 Mettre en place un partage NFS, sur **serveur-nfs**, en lecture seulement, du dossier /projet-session, qui sera utilisé par un hôte virtuel web de serveur01, nommé **nfs.es-matricule.gleeze.com**, pour son contenu Web.
 
@@ -156,7 +156,7 @@ Un requête sur **https://nfs.es-matricule.gleeze.com** doit afficher un contenu
 
 Par exemple,
 
-![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-19.12.46-1024x771.png)
+<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-19.12.46-1024x771.png" alt="" width="512" />
 
 Ce contenu est stocké sur le **serveur-nfs**. Par contre, le site web est défini sur le **serveur01**.
 
@@ -185,7 +185,7 @@ C’est à vous de faire les recherches nécessaires pour les étapes d’instal
 
 ## 2 – Node-Red
 
-![](images/Epreuve-synthese-2024/node-red-icon.png)
+<img src="images/Epreuve-synthese-2024/node-red-icon.png" alt="" width="240" />
 
 L’application **Node-Red** est utilisée pour le contrôle d’objets connectés (Internet des objets – IOT).
 
@@ -201,13 +201,13 @@ Il faut protéger l’accès à **Node-RED** avec un compte utilisateur ‘**pro
 
 Pare feu Google Cloud – Rappel
 
-![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-13.19.48.png)
+<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-13.19.48.png" alt="" width="451" />
 
-![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-13.21.07.png)
+<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-13.21.07.png" alt="" width="441" />
 
-![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-13.30.11.png)
+<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-13.30.11.png" alt="" width="977" />
 
-![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-13.31.20-1024x574.png)
+<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-13.31.20-1024x574.png" alt="" width="512" />
 
 ```
 ATTENTION:  Ne pas installer avec le compte root ou avec la commande 'sudo'.
@@ -231,7 +231,7 @@ Les directives sont disponibles sur le site de Node-RED à l’adresse [suivante
 
 ## 3 – Zabbix
 
-![](images/Epreuve-synthese-2024/34xzfc6qi8y41.png.webp)
+<img src="images/Epreuve-synthese-2024/34xzfc6qi8y41.png.webp" alt="" width="400" />
 
 Zabbix est un outil qui permet de centraliser le monitoring d’un parc de serveur.
 
@@ -294,7 +294,7 @@ L’installation de Zabbix est fonctionnelle si vous obtenez l’écran suivant 
 
 **NOTE**: Le compte/password par défaut est ‘**Admin/zabbix**‘.
 
-![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-17-a-16.24.02-1024x897.png)
+<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-17-a-16.24.02-1024x897.png" alt="" width="512" />
 
 ---
 
@@ -307,7 +307,7 @@ L’installation de Zabbix est fonctionnelle si vous obtenez l’écran suivant 
 
 Après un certain moment, Zabbix devrait présenter des graphiques d’utilisation des ressources du serveur.
 
-![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-17-a-17.01.35-1024x582.png)
+<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-17-a-17.01.35-1024x582.png" alt="" width="512" />
 
 ---
 
@@ -315,7 +315,7 @@ Après un certain moment, Zabbix devrait présenter des graphiques d’utilisati
 
 Ajouter le serveur-ftp dans le domaine de surveillance de Zabbix
 
-![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-17-a-17.12.36-1024x119.png)
+<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-17-a-17.12.36-1024x119.png" alt="" width="512" />
 
 **NOTE**: Pour obtenir les points supplémentaires, il faut que le ‘LABEL’ **ZBX** du **serveur-ftp** soit en vert.
 
@@ -323,7 +323,7 @@ Ajouter le serveur-ftp dans le domaine de surveillance de Zabbix
 
 ## 4 – MediaWiki
 
-![](images/Epreuve-synthese-2024/MediaWiki_logo.webp)
+<img src="images/Epreuve-synthese-2024/MediaWiki_logo.webp" alt="" width="288" />
 
 ### MediaWiki est l’application qui fait rouler Wikipedia.
 
@@ -339,7 +339,7 @@ Le site propose un lien vers le code source et des instructions d’installation
 
 ## 5 – Lychee
 
-![](images/Epreuve-synthese-2024/lychee_fruit_food_icon_218351.png)
+<img src="images/Epreuve-synthese-2024/lychee_fruit_food_icon_218351.png" alt="" width="256" />
 
 Lychee est une application, libre de droits, qui permet de monter une collection de photos.
 
@@ -412,7 +412,7 @@ DB_PASSWORD=
 
 ## 6 – Journal de bord (20%)
 
-![](images/Epreuve-synthese-2024/journal-graphic-clipart-design-free-png.png)
+<img src="images/Epreuve-synthese-2024/journal-graphic-clipart-design-free-png.png" alt="" width="454" />
 
 Le lien ‘**Journal**‘ du site principal doit pointer sur une deuxième installation de WordPress, dans un site de type ‘hote virtuel’ et sécurisé par un certificat (certbot).
 
@@ -442,15 +442,15 @@ Il faut tenir dans ce journal de bord toutes les étapes de réalisation de l’
 
 ## 6.1 – Voici un exemple d’un journal de bord
 
-[![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-16.58.17-1024x636.png)](https://mon-journal.mon-projet.freeddns.org)
+[<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-16.58.17-1024x636.png" alt="" width="512" />](https://mon-journal.mon-projet.freeddns.org)
 
-![](images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-16.59.06-1024x1017.png)
+<img src="images/Epreuve-synthese-2024/Capture-decran-le-2024-11-19-a-16.59.06-1024x1017.png" alt="" width="512" />
 
 ---
 
 ## 7 – Lynis
 
-![](images/Epreuve-synthese-2024/8558546.png)
+<img src="images/Epreuve-synthese-2024/8558546.png" alt="" width="230" />
 
 Lynis est un outil ‘open source’ d’analyse des failles de sécurité d’un serveur Linux. Le dépôt public git est disponible [ici](https://github.com/CISOfy/lynis).
 
@@ -571,7 +571,7 @@ Lynis security scan details:
 
 ## 8 – Serveur FTP
 
-![](images/Epreuve-synthese-2024/unnamed.png)
+<img src="images/Epreuve-synthese-2024/unnamed.png" alt="" width="300" />
 
 Il faut installer, sur le **serveur01**, le service **vsftpd**, offrant une connexion exclusivement de type **Anonymous**, sans mot de passe.
 
@@ -583,7 +583,7 @@ Voir ici pour un retour sur les [concepts](Installation-d-un-serveur-FTP.md).
 
 ## 9 – Règles du pare feu Google Cloud
 
-![](images/Epreuve-synthese-2024/811683.png)
+<img src="images/Epreuve-synthese-2024/811683.png" alt="" width="256" />
 
 Par défaut, l’accès à des ports autres que 22, 80 et 443 est bloqué par les règles de pare feu des projets cloud.google.
 
@@ -591,7 +591,7 @@ Cette contrainte bloquera l’accès, par exemple, au port de Node-RED:1880.
 
 Il est possible d’ajouter des règles supplémentaires au niveau du projet ou d’un VM avec les TAGs.
 
-![](images/Epreuve-synthese-2024/firewall-1024x704.png)
+<img src="images/Epreuve-synthese-2024/firewall-1024x704.png" alt="" width="512" />
 
 ---
 
@@ -718,7 +718,7 @@ Renseigner un fichier texte avec les informations suivantes:
 
 ☔️ – Projet non accessible, 🗝️ clé ssh invalide, 🎄- Corrigé
 
-![](images/Epreuve-synthese-2024/giphy-1-1.gif)
+<img src="images/Epreuve-synthese-2024/giphy-1-1.gif" alt="" width="250" />
 
 ---
 
