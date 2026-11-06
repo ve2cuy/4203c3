@@ -61,3 +61,5 @@ Site web (GitHub Pages) : <https://ve2cuy.github.io/4203c3/>
 ---
 
 *Contenu converti depuis [ve2cuy.com/420-3c3](https://ve2cuy.com/420-3c3/?page_id=1512).*
+
+> **Entretien du site** : l'accueil du site est `index.md` (Markdown ordinaire); voir [GUIDE.md](GUIDE.md) pour le modifier, ajouter un document ou prévisualiser le site sur le Mac.

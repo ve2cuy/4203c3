@@ -1,2 +1,6 @@
 .DS_Store
 Thumbs.db
+_site/
+.jekyll-cache/
+.sass-cache/
+outils/Gemfile.lock

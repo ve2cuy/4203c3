@@ -1,3 +1,14 @@
-title: "420-3C3-JR - Installation de serveurs"
+title: "420-3C3 · Installation de serveurs"
 description: "Services réseaux locaux et en nuages"
-theme: jekyll-theme-primer
+lang: fr
+# Propres au cours : en-tête, pied de page, aperçu local (outils/apercu.sh).
+cours_code: "420-3C3"
+cours_nom: "Installation de serveurs"
+depot: "ve2cuy/4203c3"
+baseurl: "/4203c3"
+# Gabarit et feuilles de style communs aux sites de cours et à ve2cuy.github.io.
+# L'accueil du site est index.md; README.md reste la page du dépôt.
+exclude:
+  - GUIDE.md
+  - README.md
+  - outils
