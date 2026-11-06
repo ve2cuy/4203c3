@@ -233,7 +233,18 @@ chaque nouvelle session, refaire ce fichier avec l'outil du site ve2cuy.com
 (`ve2cuy-site/tools/calendrier.py`, voir son README) à partir du PDF du calendrier du Cégep, puis
 copier le même `sessions.json` ici.
 
-Pour vérifier une date précise : <https://ve2cuy.github.io/4203c3/?date=2027-03-31>.
+Le cours se donne à l'automne : `saison: automne` dans `_config.yml` fait que le tableau de bord
+ne montre que les sessions d'automne du fichier (en cours, sinon la prochaine, sinon la
+dernière). Le calendrier du campus se trouve sur cstj.qc.ca (« Calendrier_Automne_AAAA_Campus_Saint-Jerome.pdf »);
+par exemple :
+
+```bash
+python3 ../ve2cuy-site/tools/calendrier.py Calendrier_Automne_2027_Campus_Saint-Jerome.pdf \
+  --session automne --annee 2027 --mise-a-jour AAAA-MM-JJ:AAAA-MM-JJ \
+  --evaluations AAAA-MM-JJ:AAAA-MM-JJ --sortie assets/data/sessions.json
+```
+
+Pour vérifier une date précise : <https://ve2cuy.github.io/4203c3/?date=2026-11-06>.
 
 ## Aperçu local (valider avant de publier)
 
@@ -271,7 +282,7 @@ Autres usages :
 | `outils/apercu.sh 4001` | Aperçu sur un autre port (si 4000 est déjà pris) |
 | `outils/apercu.sh --build` | Construit seulement le site dans `_site/` et s'arrête : pratique pour vérifier qu'il n'y a pas d'erreur avant de pousser |
 
-Le tableau de bord se teste aussi en local : <http://127.0.0.1:4000/4203c3/?date=2027-03-31>.
+Le tableau de bord se teste aussi en local : <http://127.0.0.1:4000/4203c3/?date=2026-11-06>.
 
 ### Le contenu d'`outils/`
 
