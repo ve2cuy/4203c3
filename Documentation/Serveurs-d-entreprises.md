@@ -183,4 +183,4 @@ Les serveurs d’entreprises proposent habituellement entre 2 et 4 cartes d’in
 
 ---
 
-[⬅️ Retour à la liste des documents](../README.md)
+[⬅️ Retour à la liste des documents](../index.md)

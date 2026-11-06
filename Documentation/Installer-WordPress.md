@@ -159,4 +159,4 @@ https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-ubu
 
 ---
 
-[⬅️ Retour à la liste des documents](../README.md)
+[⬅️ Retour à la liste des documents](../index.md)

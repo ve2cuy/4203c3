@@ -726,4 +726,4 @@ Renseigner un fichier texte avec les informations suivantes:
 
 ---
 
-[⬅️ Retour à la liste des documents](../README.md)
+[⬅️ Retour à la liste des documents](../index.md)

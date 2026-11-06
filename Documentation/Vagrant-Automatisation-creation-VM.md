@@ -210,4 +210,4 @@ Document d’introduction externe ([en anglais](https://opensource.com/article/1
 
 ---
 
-[⬅️ Retour à la liste des documents](../README.md)
+[⬅️ Retour à la liste des documents](../index.md)
