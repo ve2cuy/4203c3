@@ -15,7 +15,7 @@
 * [Plan de cours](Documentation/fichiers/420-3C3-JR_ab_pc_A24.pdf)
 * [Projet numéro 1 – 30%](Documentation/Projet-01-A2024.md)
 * [Projet numéro 2 – Épreuve synthèse 2024](Documentation/Epreuve-synthese-2024.md)
-* [ve2cuy](https://ve2cuy.com/)
+* [ve2cuy](https://ve2cuy.github.io/)
 
 ---
 
@@ -31,7 +31,7 @@
 8. [Installation et configuration de WordPress](Documentation/Installer-WordPress.md)
 9. [Apache 2 – Hôtes virtuels](Documentation/Apache2-Hotes-virtuels-et-htaccess.md)
 10. **[Projet numéro 1 – 30%](Documentation/Projet-01-A2024.md)**
-11. [Installation d’un certificat signé sur un hôte virtuel (**certbot**)](http://ve2cuy.com/420-21e/index.php/installation-dun-certificat-signe-sur-un-hote-virtuel-apache2/) 🔗
+11. [Installation d’un certificat signé sur un hôte virtuel (**certbot**)](Documentation/Installation-certificat-signe-certbot.md) 🔗
 12. \* Installation d’un certificat auto-signé (pour une application web locale) — *à venir*
 13. \* Stratégies de sécurités des serveurs Web (fail2ban, **Lynis**, kali Linux, Kasm via Docker) — *à venir*
 14. [Sauvegarde et restauration d’un site WordPress](Documentation/WordPress-Sauvegarde-et-restauration.md) (Staging)
@@ -44,7 +44,7 @@
 21. [Installation d’un serveur ftp](Documentation/Installation-d-un-serveur-FTP.md) (vsftpd, firewall, FileZilla)
 22. **Projet numéro 2 – [Épreuve synthèse 2024](Documentation/Epreuve-synthese-2024.md)**
 23. [\* Ansible – Introduction](Documentation/Ansible-Introduction.md)
-24. [Démonstration d’une application en micro-services (Introduction à Docker)](https://4204d4.ve2cuy.com/docker-introduction/) 🔗
+24. [Démonstration d’une application en micro-services (Introduction à Docker)](https://ve2cuy.github.io/4204d4/Documentation/Docker/Introduction-a-Docker.html) 🔗
 
 \* Contenu facultatif — 🔗 Lien externe
 
@@ -60,6 +60,6 @@ Site web (GitHub Pages) : <https://ve2cuy.github.io/4203c3/>
 
 ---
 
-*Contenu converti depuis [ve2cuy.com/420-3c3](https://ve2cuy.com/420-3c3/?page_id=1512).*
+*Contenu converti depuis ve2cuy.com/420-3c3.*
 
 > **Entretien du site** : l'accueil du site est `index.md` (Markdown ordinaire); voir [GUIDE.md](GUIDE.md) pour le modifier, ajouter un document ou prévisualiser le site sur le Mac.

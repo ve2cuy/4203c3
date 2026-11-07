@@ -1,6 +1,6 @@
 # Épreuve Synthèse – 2024
 
-*Document converti depuis [ve2cuy.com/420-3c3](https://ve2cuy.com/420-3c3/?page_id=2531) — dernière modification : 2024-12-22*
+*Document converti depuis ve2cuy.com/420-3c3 — dernière modification : 2024-12-22*
 
 ---
 
@@ -117,7 +117,7 @@ Sur **serveur01**, mettre en place un site web **WordPress** proposant un menu o
 - **Photos** -> pour lancer Lychee
   - URL: **https**://photos.es-matricule.gleeze.com
 
-✋ **NOTE IMPORTANTE ->**  Sauf pour **Node-RED**, tous les accès sont de type **[HTTPS](https://ve2cuy.com/420-21e/index.php/installation-dun-certificat-signe-sur-un-hote-virtuel-apache2/)**.
+✋ **NOTE IMPORTANTE ->**  Sauf pour **Node-RED**, tous les accès sont de type **[HTTPS](Installation-certificat-signe-certbot.md)**.
 
 ---
 

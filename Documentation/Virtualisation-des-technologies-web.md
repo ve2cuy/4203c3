@@ -1,6 +1,6 @@
 # Virtualisation des technologies WEB
 
-*Document converti depuis [ve2cuy.com/420-3c3](https://ve2cuy.com/420-3c3/?page_id=259) — dernière modification : 2024-08-20*
+*Document converti depuis ve2cuy.com/420-3c3 — dernière modification : 2024-08-20*
 
 ---
 

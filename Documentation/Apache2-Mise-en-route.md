@@ -1,6 +1,6 @@
 # Apache2 – Mise en route
 
-*Document converti depuis [ve2cuy.com/420-3c3](https://ve2cuy.com/420-3c3/?page_id=2214) — dernière modification : 2024-09-12*
+*Document converti depuis ve2cuy.com/420-3c3 — dernière modification : 2024-09-12*
 
 ---
 
@@ -491,7 +491,7 @@ ErrorDocument 403 /errors/forbidden.py?referrer=%{escape:%{HTTP_REFERER}}
 
 ```
 # Sous DocumentRoot
-ErrorDocument 404 https://ve2cuy.com/420-3c3/?page_id=2210
+ErrorDocument 404 https://ve2cuy.github.io/4203c3/
 
 # Enregistrer, recharger (systemctl reload) et tester!
 ```

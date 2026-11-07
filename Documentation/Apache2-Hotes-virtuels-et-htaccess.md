@@ -1,6 +1,6 @@
 # Apache2 – hôtes virtuels et .htaccess
 
-*Document converti depuis [ve2cuy.com/420-3c3](https://ve2cuy.com/420-3c3/?page_id=1663) — dernière modification : 2024-10-03*
+*Document converti depuis ve2cuy.com/420-3c3 — dernière modification : 2024-10-03*
 
 ---
 

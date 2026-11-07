@@ -124,7 +124,7 @@ de la taille des autres, ajouter `grandes_cartes: false` dans l'en-tête d'`inde
 | `image_ronde: true` dans l'en-tête d'`index.md` | L'image de l'en-tête s'affiche en rond (pour une photo) |
 | Un titre de plus de 30 caractères | Il s'affiche un peu plus petit, pour rester moins haut que le tableau de bord |
 
-Le menu du haut se règle dans `_config.yml` (sinon : ve2cuy.com, Documents, Enseignant) :
+Le menu du haut se règle dans `_config.yml` (sinon : ve2cuy.github.io, Documents, Enseignant) :
 
 ```yaml
 navigation:

@@ -48,7 +48,7 @@ L'étudiant pourra choisir les caractéristiques de serveurs (physiques ou virtu
 - ![](dessins/bouclier.svg) 07 · [Mise en place et configuration de ufw (Uncomplicated FireWall)](https://doc.ubuntu-fr.org/ufw) · lien externe
 - ![](dessins/plume.svg) 08 · [Installation et configuration de WordPress](Documentation/Installer-WordPress.md)
 - ![](dessins/reseau.svg) 09 · [Apache 2 – Hôtes virtuels](Documentation/Apache2-Hotes-virtuels-et-htaccess.md)
-- ![](dessins/badge.svg) 11 · [Installation d'un certificat signé sur un hôte virtuel (certbot)](http://ve2cuy.com/420-21e/index.php/installation-dun-certificat-signe-sur-un-hote-virtuel-apache2/) · lien externe
+- ![](dessins/badge.svg) 11 · [Installation d'un certificat signé sur un hôte virtuel (certbot)](Documentation/Installation-certificat-signe-certbot.md) · lien externe
 - ![](dessins/badge.svg) 12 · Installation d'un certificat auto-signé (pour une application Web locale) · facultatif
 - ![](dessins/bouclier.svg) 13 · Stratégies de sécurité des serveurs Web (fail2ban, Lynis, Kali Linux, Kasm via Docker) · facultatif
 - ![](dessins/disque.svg) 14 · [Sauvegarde et restauration d'un site WordPress](Documentation/WordPress-Sauvegarde-et-restauration.md)
@@ -67,7 +67,7 @@ L'étudiant pourra choisir les caractéristiques de serveurs (physiques ou virtu
 - ![](dessins/telechargement.svg) 21 · [Installation d'un serveur FTP](Documentation/Installation-d-un-serveur-FTP.md)
   - vsftpd, pare-feu, FileZilla
 - ![](dessins/engrenage.svg) 23 · [Ansible – Introduction](Documentation/Ansible-Introduction.md) · facultatif
-- ![](dessins/conteneur.svg) 24 · [Démonstration d'une application en micro-services (introduction à Docker)](https://4204d4.ve2cuy.com/docker-introduction/) · lien externe
+- ![](dessins/conteneur.svg) 24 · [Démonstration d'une application en micro-services (introduction à Docker)](https://ve2cuy.github.io/4204d4/Documentation/Docker/Introduction-a-Docker.html) · lien externe
 
 ## D) Projets
 

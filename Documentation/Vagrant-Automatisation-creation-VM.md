@@ -1,6 +1,6 @@
 # Vagrant – Automatisation de la création des VM
 
-*Document converti depuis [ve2cuy.com/420-3c3](https://ve2cuy.com/420-3c3/?page_id=1707) — dernière modification : 2024-10-23*
+*Document converti depuis ve2cuy.com/420-3c3 — dernière modification : 2024-10-23*
 
 ---
 
